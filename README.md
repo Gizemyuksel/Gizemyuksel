@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
 <h3 align="center">A passionate software developer intern.</h3>
 
-- 🔭 I’m currently working on **full stack web development.**
 
 - 🌱 I’m currently learning **swift.**
 
