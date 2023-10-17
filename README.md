@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
-<h3 align="center">A passionate software developer intern.</h3>
+<h3 align="center">A passionate software developer.</h3>
 
 
-- 🌱 I’m currently learning **swift.**
+- 🌱 I’m currently learning **Product Management.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
